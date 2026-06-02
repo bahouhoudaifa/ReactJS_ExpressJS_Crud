@@ -368,4 +368,13 @@ Voici des pistes d'évolution pour enrichir le projet :
 
 ---
 
+# Captures d'exécution :
+
+![img](images/1.png)
+![img](images/2.png)
+![img](images/3.png)
+
+
+---
+
 ### Réalisé par : Houdaifa BAHOU
